@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreySmith.Foundation.Seria
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreySmith.Project.SxaRocks", "src\Project\SxaRocks\website\CoreySmith.Project.SxaRocks.csproj", "{FBC32F14-A2FE-4CCA-8E84-7C11F7497A8A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{0EDE63C1-890A-475A-941F-98A8970128E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreySmith.Feature.ErrorHandling", "src\Feature\ErrorHandling\website\CoreySmith.Feature.ErrorHandling.csproj", "{7B85B0E3-8379-4517-80FC-021BDE68AD71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +45,10 @@ Global
 		{FBC32F14-A2FE-4CCA-8E84-7C11F7497A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBC32F14-A2FE-4CCA-8E84-7C11F7497A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBC32F14-A2FE-4CCA-8E84-7C11F7497A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B85B0E3-8379-4517-80FC-021BDE68AD71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B85B0E3-8379-4517-80FC-021BDE68AD71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B85B0E3-8379-4517-80FC-021BDE68AD71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B85B0E3-8379-4517-80FC-021BDE68AD71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -49,6 +57,7 @@ Global
 		{969D7CCF-1890-4F21-88DD-EE8D459F7F9E} = {D91BD353-5630-4340-A833-65D2BCACAE39}
 		{03567124-F93E-4F9A-98E5-EC0084EFE5F0} = {C320022B-54CF-45A8-918F-102A067BD755}
 		{FBC32F14-A2FE-4CCA-8E84-7C11F7497A8A} = {D91BD353-5630-4340-A833-65D2BCACAE39}
+		{7B85B0E3-8379-4517-80FC-021BDE68AD71} = {0EDE63C1-890A-475A-941F-98A8970128E6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5AE4121B-8E87-41F8-B61F-894506689886}
