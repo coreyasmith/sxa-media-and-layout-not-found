@@ -11,6 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".config", ".config", "{0866
 		src\Project\Common\website\App_Config\Environment\CoreySmith\CoreySmith.Project.Common.Dev.config = src\Project\Common\website\App_Config\Environment\CoreySmith\CoreySmith.Project.Common.Dev.config
 		NuGet.config = NuGet.config
 		PublishSettings.targets = PublishSettings.targets
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{D91BD353-5630-4340-A833-65D2BCACAE39}"
