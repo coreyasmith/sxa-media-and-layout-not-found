@@ -1,0 +1,22 @@
+﻿---
+ID: "889e809a-574d-4925-b689-46b8e1acf5ae"
+Parent: "524404e7-6bea-4e3b-895e-af59949ec9db"
+Template: "29076468-522e-46ae-bf1d-4e2d0f3a6c1b"
+Path: /sitecore/content/CoreySmith/SxaRocks/Presentation/Page Designs/Default
+DB: master
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{264D283C-BDF2-46F4-818D-1A9DB9DEB0B2}|{4F02EE56-F791-4F07-914F-11CC1E10B97D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181121T193403Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser

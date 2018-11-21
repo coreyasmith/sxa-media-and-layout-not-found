@@ -1,0 +1,18 @@
+﻿---
+ID: "c1090e07-15a4-4eb8-89a2-43b04a39a7ab"
+Parent: "29076468-522e-46ae-bf1d-4e2d0f3a6c1b"
+Template: "29076468-522e-46ae-bf1d-4e2d0f3a6c1b"
+Path: /sitecore/templates/Project/CoreySmith/Page Design/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181121T192256Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser

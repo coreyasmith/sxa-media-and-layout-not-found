@@ -1,0 +1,38 @@
+﻿---
+ID: "c49efc40-b5c3-4604-a0f0-caef8f753c84"
+Parent: "c7f3bdf0-bdb9-4891-a5ec-58a105918a50"
+Template: "eda823fc-bc7e-4ef6-b498-cd09ec6fdaef"
+Path: /sitecore/content/CoreySmith/SxaRocks/Settings/Site Grouping/SxaRocks
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "1ee576af-ba8e-4312-9fbd-2ccf8395baa1"
+  Hint: StartItem
+  Value: "{40846730-FDBD-4AF8-AF19-AC69536034D6}"
+- ID: "301e719a-6f65-4874-b565-a953a7b5ac83"
+  Hint: OtherProperties
+  Value: formsRoot
+- ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
+  Hint: HostName
+  Value: *
+- ID: "cb4e9e2e-2b66-43dc-ad3f-9caf363d28d3"
+  Hint: SiteName
+  Value: SxaRocks
+- ID: "da06d09e-02b6-464a-80fc-9d8d7fc875e3"
+  Hint: Environment
+  Value: *
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{0EF8CB53-535D-41FE-8704-2C014D60D2DD}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181121T193356Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser

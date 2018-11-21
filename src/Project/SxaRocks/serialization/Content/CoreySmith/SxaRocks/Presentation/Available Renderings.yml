@@ -1,0 +1,18 @@
+﻿---
+ID: "ff7ba053-4e59-4087-bef5-0a2986256caf"
+Parent: "e4a617c0-d4d1-41d2-8d10-fc648d2dfefe"
+Template: "39a9ed72-407d-4440-ba50-30956834794e"
+Path: /sitecore/content/CoreySmith/SxaRocks/Presentation/Available Renderings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181121T193358Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser

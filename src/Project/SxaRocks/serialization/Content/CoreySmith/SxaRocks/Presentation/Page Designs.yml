@@ -1,0 +1,29 @@
+﻿---
+ID: "524404e7-6bea-4e3b-895e-af59949ec9db"
+Parent: "e4a617c0-d4d1-41d2-8d10-fc648d2dfefe"
+Template: "b37f0552-1580-4b06-a5a1-54ed3481b1f1"
+Path: /sitecore/content/CoreySmith/SxaRocks/Presentation/Page Designs
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7bCD6EDEB4-7957-4773-9D5E-BCBDBB388A89%7d%3d%257B889E809A-574D-4925-B689-46B8E1ACF5AE%257D%26%7b03F50506-91B1-415E-8BCC-4CDFBEBB905E%7d%3d%257B889E809A-574D-4925-B689-46B8E1ACF5AE%257D"
+- ID: "c0c88e34-d7e6-46a0-b84f-b0a432d11642"
+  Hint: Theme
+  Value: "%7bFE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3%7d%3d%257B3F46272C-F3B8-4913-8C00-3816B436A4D3%257D"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{5D5CE43E-D5C6-4C53-89BC-36285DDE8EC9}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181121T193356Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser

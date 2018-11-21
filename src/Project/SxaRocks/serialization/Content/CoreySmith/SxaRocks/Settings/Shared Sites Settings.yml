@@ -1,0 +1,18 @@
+﻿---
+ID: "fa877040-fe94-45ed-b7a1-26bdcc1f3200"
+Parent: "64b77564-bb64-412d-aa89-017acd489439"
+Template: "18d0bd79-7da4-4c2a-a924-b93a2b99d669"
+Path: /sitecore/content/CoreySmith/SxaRocks/Settings/Shared Sites Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181121T193357Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser

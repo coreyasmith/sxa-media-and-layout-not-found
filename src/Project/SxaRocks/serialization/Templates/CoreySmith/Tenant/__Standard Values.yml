@@ -1,0 +1,14 @@
+﻿---
+ID: "a06891c1-1cdd-417b-b650-49348f2d857c"
+Parent: "fbcde267-787f-44ae-99d7-a308b9bd86bf"
+Template: "fbcde267-787f-44ae-99d7-a308b9bd86bf"
+Path: /sitecore/templates/Project/CoreySmith/Tenant/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181121T192255Z

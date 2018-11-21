@@ -1,0 +1,26 @@
+﻿---
+ID: "a822c631-3ff2-4f04-9315-8a2b4a849cd0"
+Parent: "4544597b-d7de-4197-b41f-81ac15b3727c"
+Template: "4544597b-d7de-4197-b41f-81ac15b3727c"
+Path: /sitecore/templates/Project/CoreySmith/Partial Design Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {4544597B-D7DE-4197-B41F-81AC15B3727C}
+    {BF680756-B2FA-4CAE-8B69-EE361080616F}
+    {C2A8E276-1757-4957-9DD5-8669B79FD80D}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181121T192256Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser

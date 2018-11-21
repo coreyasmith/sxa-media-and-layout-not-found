@@ -1,0 +1,30 @@
+﻿---
+ID: "4f02ee56-f791-4f07-914f-11cc1e10b97d"
+Parent: "df6a197f-2732-4e37-ae01-52bc1cbeb1ed"
+Template: "c2a8e276-1757-4957-9dd5-8669b79fd80d"
+Path: /sitecore/content/CoreySmith/SxaRocks/Presentation/Partial Designs/Metadata
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "metadata-partial-design"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{C7A35BB6-7B78-49A5-A0CE-23A6DFA3E00E}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Metadata
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181121T193356Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser

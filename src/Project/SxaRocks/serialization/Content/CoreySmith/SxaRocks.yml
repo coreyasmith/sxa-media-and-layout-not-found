@@ -1,0 +1,46 @@
+﻿---
+ID: "d51996ea-39cf-43ef-863d-5dcbb45a0800"
+Parent: "ba34391f-4563-428a-aebe-62eb648c689b"
+Template: "5a8ee97b-9ad6-4426-84c3-cfd6245a6d4a"
+Path: /sitecore/content/CoreySmith/SxaRocks
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "1230d2cb-4948-4d43-8a3b-b39978f6f1b3"
+  Hint: Modules
+  Type: Treelist
+  Value: |
+    {CA5F8D33-5D36-4411-AD24-6F143DBCF9DC}
+    {8ECE04D0-BC11-4D03-A50A-30CC89A43287}
+    {8FB3468D-247D-4297-928F-1B38FF270CA2}
+    {32359A5E-2456-4248-88CE-F3DCFABB1FF3}
+    {7218118B-9C26-4158-A09A-1FF1C8666793}
+    {0B752984-2167-48FA-A4DE-291072F9E62C}
+    {85E7A149-9009-43D8-96AC-58605ADE7777}
+    {F5A85D34-2F7A-4CB7-8486-D4AF257E9994}
+    {46D0AA2D-2804-4ECA-92B2-956D623EE44C}
+- ID: "33d9005e-1f71-415f-b107-53b965c3b037"
+  Hint: SiteMediaLibrary
+  Value: "{24304A61-15E2-488F-B047-570B3E1A7658}"
+- ID: "d7264a2b-e343-4613-a71a-1727f50dbc15"
+  Hint: ThemesFolder
+  Value: "{46648158-EAD2-4888-A088-788BEC37E738}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{DAD74961-1A72-490F-A0E6-D501635F0A79}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: SXA Rocks
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181121T193356Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser

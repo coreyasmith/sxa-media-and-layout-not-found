@@ -1,0 +1,25 @@
+﻿---
+ID: "c235997d-6480-453e-a4ad-f7eab5aeb174"
+Parent: "b37f0552-1580-4b06-a5a1-54ed3481b1f1"
+Template: "b37f0552-1580-4b06-a5a1-54ed3481b1f1"
+Path: /sitecore/templates/Project/CoreySmith/Page Designs/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {1455E55E-C3A7-4D19-B94F-D7F4279DAC49}
+    {29076468-522E-46AE-BF1D-4E2D0F3A6C1B}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181121T192256Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser

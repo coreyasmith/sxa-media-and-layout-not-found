@@ -1,0 +1,51 @@
+﻿---
+ID: "ba34391f-4563-428a-aebe-62eb648c689b"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "fbcde267-787f-44ae-99d7-a308b9bd86bf"
+Path: /sitecore/content/CoreySmith
+DB: master
+BranchID: "9a4aad67-383b-4504-93b9-d3502be2b59d"
+SharedFields:
+- ID: "1230d2cb-4948-4d43-8a3b-b39978f6f1b3"
+  Hint: Modules
+  Type: Treelist
+  Value: |
+    {A9C55E9C-D12F-48C6-BD91-6D8A825F4F14}
+    {8F9355F1-F6AC-49A1-8465-0B905E3E8CAF}
+    {401A09C5-B91B-4655-9149-F1E2FFC43C89}
+    {9DC3E31A-C1A1-4FAF-AEBE-C30EBC5012B8}
+    {C6CE5613-D7B8-441B-A306-63DE8760273B}
+    {8C355371-AFE7-45A9-99E4-B3329AA67701}
+    {49D671A6-6446-4495-B792-96ADDC2E9993}
+    {FE1854C1-4382-4FC1-9109-5B522E7EA95F}
+- ID: "800dc4ed-0846-45ba-b112-19902af240f6"
+  Hint: SharedMediaLibrary
+  Value: "{A7414761-F435-471A-BF1E-FA45057B1F90}"
+- ID: "9c596379-f8d4-45d1-a064-cdf1ede2e7c7"
+  Hint: Templates
+  Value: "{1D338793-4542-4159-8CB3-37B8D4CBB85E}"
+- ID: "abfb8c52-73a8-4f60-a32a-f27dd8e1b83a"
+  Hint: Themes
+  Value: "{B2D79B34-1AAB-46A4-B776-422728CFE91A}"
+- ID: "e90a4413-c111-4951-9b6a-00c4ce7fb289"
+  Hint: MediaLibrary
+  Value: "{48665B5E-6D77-4F40-9553-10756C697436}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{0E06F4B3-CB34-49FB-8C92-3CC8EEA14119}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Corey Smith
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181121T192256Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser

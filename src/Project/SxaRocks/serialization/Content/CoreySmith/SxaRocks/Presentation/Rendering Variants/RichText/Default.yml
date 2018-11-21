@@ -1,0 +1,23 @@
+﻿---
+ID: "3b514e47-71e8-4e6c-9012-01b1e277ea8b"
+Parent: "2fa274dc-d361-4005-a59b-e94c3c3cb7e8"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/CoreySmith/SxaRocks/Presentation/Rendering Variants/RichText/Default
+DB: master
+BranchID: "e4acb01a-2a91-4200-b9ce-205b2a5aa488"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8F3094F8-34E0-4B48-913C-0DE361D3FBD9}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181121T193403Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
