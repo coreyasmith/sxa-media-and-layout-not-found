@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Web;
+using CoreySmith.Foundation.Abstractions.Services;
 using CoreySmith.Foundation.Abstractions.Sites;
 using Microsoft.Extensions.DependencyInjection;
 using Sitecore.DependencyInjection;
@@ -11,6 +12,7 @@ namespace CoreySmith.Foundation.Abstractions
     public void Configure(IServiceCollection serviceCollection)
     {
       serviceCollection.AddSingleton<IContextSite, ContextSite>();
+      serviceCollection.AddSingleton<IRouteDataProvider, RouteDataProvider>();
       RegisterWebAbstractions(serviceCollection);
     }
 
@@ -24,6 +26,7 @@ namespace CoreySmith.Foundation.Abstractions
       serviceCollection.AddScoped(CreateHttpResponse);
       serviceCollection.AddScoped(CreateHttpServer);
 
+      serviceCollection.AddSingleton<Func<HttpContextBase>>(_ => Get<HttpContextBase>);
       serviceCollection.AddSingleton<Func<HttpResponseBase>>(_ => Get<HttpResponseBase>);
       serviceCollection.AddSingleton<Func<HttpServerUtilityBase>>(_ => Get<HttpServerUtilityBase>);
     }

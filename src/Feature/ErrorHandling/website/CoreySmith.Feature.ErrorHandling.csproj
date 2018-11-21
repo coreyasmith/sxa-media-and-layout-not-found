@@ -90,6 +90,7 @@
   <ItemGroup>
     <Compile Include="Constants.cs" />
     <Compile Include="ErrorHandlingConfigurator.cs" />
+    <Compile Include="Pipelines\HttpRequestBegin\HandleLayoutNotFound.cs" />
     <Compile Include="Pipelines\HttpRequestProcessed\SetMediaRequestStatusCode.cs" />
     <Compile Include="Pipelines\MediaRequestHandler\HandleNotFound.cs" />
     <Compile Include="Pipelines\MediaRequestHandler\HandlePermissionDenied.cs" />
@@ -109,6 +110,10 @@
     <ProjectReference Include="..\..\..\Foundation\Abstractions\website\CoreySmith.Foundation.Abstractions.csproj">
       <Project>{727fbc96-4c58-4da0-9c73-775e2363fc2c}</Project>
       <Name>CoreySmith.Foundation.Abstractions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Foundation\SitecoreExtensions\website\CoreySmith.Foundation.SitecoreExtensions.csproj">
+      <Project>{63188da5-1cb2-4f5e-bd9d-b9962083d5bd}</Project>
+      <Name>CoreySmith.Foundation.SitecoreExtensions</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

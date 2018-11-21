@@ -88,6 +88,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AbstractionsConfigurator.cs" />
+    <Compile Include="Services\IRouteDataProvider.cs" />
+    <Compile Include="Services\RouteDataProvider.cs" />
     <Compile Include="Sites\ContextSite.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sites\IContextSite.cs" />
