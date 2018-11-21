@@ -16,6 +16,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{D91B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreySmith.Project.Common", "src\Project\Common\website\CoreySmith.Project.Common.csproj", "{969D7CCF-1890-4F21-88DD-EE8D459F7F9E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{C320022B-54CF-45A8-918F-102A067BD755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreySmith.Foundation.Serialization", "src\Foundation\Serialization\website\CoreySmith.Foundation.Serialization.csproj", "{03567124-F93E-4F9A-98E5-EC0084EFE5F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,12 +30,17 @@ Global
 		{969D7CCF-1890-4F21-88DD-EE8D459F7F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{969D7CCF-1890-4F21-88DD-EE8D459F7F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{969D7CCF-1890-4F21-88DD-EE8D459F7F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03567124-F93E-4F9A-98E5-EC0084EFE5F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03567124-F93E-4F9A-98E5-EC0084EFE5F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03567124-F93E-4F9A-98E5-EC0084EFE5F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03567124-F93E-4F9A-98E5-EC0084EFE5F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{969D7CCF-1890-4F21-88DD-EE8D459F7F9E} = {D91BD353-5630-4340-A833-65D2BCACAE39}
+		{03567124-F93E-4F9A-98E5-EC0084EFE5F0} = {C320022B-54CF-45A8-918F-102A067BD755}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5AE4121B-8E87-41F8-B61F-894506689886}
