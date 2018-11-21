@@ -6,6 +6,9 @@ Path: /sitecore/content/CoreySmith/SxaRocks/Settings
 DB: master
 BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
 SharedFields:
+- ID: "96e5e297-6fd1-46d6-8e92-b03e33a9376c"
+  Hint: Error404Page
+  Value: "/sitecore/content/CoreySmith/SxaRocks/Home/not-found"
 - ID: "af332c24-fe17-41e7-8caf-8e64c588fe72"
   Hint: EditingTheme
   Value: "{8513293D-43AA-4FE0-97DB-C4C5A907D59C}"
